@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -28,3 +29,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+=======
+/build/
+>>>>>>> 7cd21d8 (backened)
